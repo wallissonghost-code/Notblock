@@ -1,0 +1,1 @@
+(()=>{'use strict';const piece=cells=>Math.max(0,Number(cells)||0)*5;const clear=lines=>{const n=Math.max(0,Number(lines)||0);return n? n*100+(n>1?(n-1)*150:0):0};window.NotBlockScoring={piece,clear}})();
