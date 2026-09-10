@@ -1,1 +1,1 @@
-window.NOTBLOCK_CONFIG={gameId:'notblock',version:'Beta 0.2.0',rows:8,cols:8,panelStorageKey:'notblock-liveplus-token',panelCodeKey:'notblock-panel-code'};
+window.NOTBLOCK_CONFIG={gameId:'notblock',version:'Beta 0.3.0',rows:8,cols:8,panelStorageKey:'notblock-liveplus-token',panelCodeKey:'notblock-panel-code'};
